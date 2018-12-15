@@ -1,0 +1,41 @@
+ALTER SYSTEM SET open_cursors = 10000 SCOPE=BOTH;
+
+
+ALTER PROFILE DEFAULT LIMIT PASSWORD_LIFE_TIME UNLIMITED;
+
+
+integration.ptc.ae.cafservices.source.changepackages.ApplyCPWithSubprojectsWithPropCPTest{999318}
+
+im_commands-commenting-createcomment{12}
+
+
+	integration.ptc.ae.cafservices.workflows.textsearch.visibility.LongLoggingTextSearchFGTVisibilityFunctionalTes
+
+
+https://ptccloud-my.sharepoint.com/personal/schakrab_ptc_com
+
+:1,$d
+cat /etc/redhat-release
+https://ptccloud.sharepoint.com/teams/ISG-RnD-Employee-Dev-Team/SitePages/Security%20Compliance.aspx
+
+
+/im_commands-rmcommands/rm_smoke{1,2,3,4,5,6}
+
+
+
+Automation requiment are met or not (yes or no) checklist
+
+Page object creation/modification is part of infrastructure/ required or not (yes or no) checklist
+
+Automation will start once UI build is somewhat stable.
+
+
+
+
+
+
+
+
+
+
+
