@@ -1,0 +1,6 @@
+export BUILD_ROOT=C:/buildenv/mainline/Integrity
+cd $BUILD_ROOT/bld
+. ./setup.ksh
+
+cd C:/buildenv/mainline/Integrity/solution/components/automation/src/bld
+make -DBI_ID=${1} -DBI_BUILDNUMBER=${2} -DDBTYPE=${3} -DSERVER_INST_DIR=c:/install/IntegrityServer -DCLIENT_INST_DIR=c:/install/IntegrityClient -DPROXY_INST_DIR=c:/install/ProxyServer -DITF_USER=${user} -DITF_PASSWORD=${password} -DINTEGRATION_CLASS_LIST_FILE_PARAM="c:/classes.txt" RunProxyTests
