@@ -6,3 +6,5 @@ Second Line
 Third Line
 Fourth Line
 Done with Master
+
+CHECKING MERGE
